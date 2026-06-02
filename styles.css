@@ -41,11 +41,11 @@ table, th, td {
 /* text area formatting */
 #text-block {
     width: 400px;
-    height: 100px;
+    height: 125px;
     background-color: lightgrey;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 36px;
+    font-size: 32px;
 }
 
 /*like button formatting */
@@ -59,7 +59,7 @@ table, th, td {
 
 /* split screen in half */
 .split {
-  height: 85%;
+  height: 100%;
   width: 50%;
   position: fixed;
   z-index: 1;
